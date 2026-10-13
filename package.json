@@ -1,0 +1,12 @@
+{
+  "name": "valknox-delivery-checker",
+  "version": "1.0.0",
+  "description": "VALKNOX Shopify delivery checker backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
